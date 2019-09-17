@@ -78,7 +78,7 @@ Feel free to report issue for adding more and more useful link(s).
 - [DataForEveryone](https://www.figure-eight.com/data-for-everyone/)
 
 ## Inspire (Thanks)
-[Thingful](https://thingful.io)
+[Thingful](https://thingful.net)
 
 <cite>I click almost half an hour to find out a little part of Thingful's data source.</cite>
 
