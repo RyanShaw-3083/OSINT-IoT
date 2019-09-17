@@ -84,7 +84,7 @@ Feel free to report issue for adding more and more useful link(s).
 
 ## TL;DR
 Scan the whole Internet (IPv4/v6 space) to find any IoT things is so h('a'*1024)rdly ... But that's a effective way to grab more data!
-The IoT is combining our life and cyberspace so close even blurring the red-line of between virtual and reality. In some way, IoT is "dangerous" for us if this giant system lose security control. 
+The IoT is combining our life and cyberspace so close even blurring the red-line between virtual and reality. In some way, IoT is "dangerous" for us if this giant system lose security control. 
 
 Go back to 1999, "Do you need a mobile phone?".
 
